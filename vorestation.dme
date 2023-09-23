@@ -4261,5 +4261,6 @@
 #include "maps\submaps\surface_submaps\wilderness\wilderness.dm"
 #include "maps\submaps\surface_submaps\wilderness\wilderness_areas.dm"
 #include "maps\tether\tether.dm"
+#include "maps\Workspace\Scilab.dmm"
 #include "maps\~map_system\maps.dm"
 // END_INCLUDE
